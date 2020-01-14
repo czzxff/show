@@ -1,0 +1,22 @@
+{
+	"swiperList": [
+        {
+        	"id":0,
+            "clickUrl": "#",
+            "desc": "1",
+            "src": "../../static/image/1.jpg"
+        },
+        {
+        	"id":1,
+            "clickUrl": "#",
+            "desc": "2",
+            "src": "../../static/image/2.png"
+        },
+        {
+        	"id":2,
+            "clickUrl": "#",
+            "desc": "3",
+            "src": "../../static/image/3.jpg"
+        }
+    ]
+}
